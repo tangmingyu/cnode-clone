@@ -1,0 +1,17 @@
+node_modules/
+run/
+logs/
+typings/
+coverage/
+.idea/
+.nyc_output/
+.vscode
+
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+.DS_Store
+*.sw*
+*.un~
